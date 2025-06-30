@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Chougale</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer !</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🌱 I’m currently developing different projects !
+### 🌱 I’m currently Enhancing my skills !
 
 📫 How to reach me: **rutikchougale@gmail.com**
 
